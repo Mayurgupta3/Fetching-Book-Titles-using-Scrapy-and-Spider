@@ -7,7 +7,7 @@ This project is using Scrapy and Spider for crawling websites and extract other 
 Download the code from the github:
 
 ```
-git clone https://github.com/Mayurgupta3/Fetching-Book-Title-using-Scrapy-and-Spiderr
+git clone https://github.com/Mayurgupta3/Fetching-Book-Title-using-Scrapy-and-Spider.git
 ```
 
 ### Installing
